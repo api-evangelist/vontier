@@ -19,6 +19,10 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Vontier
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/vontier
   - type: Website
     url: https://www.vontier.com/
 maintainers:
