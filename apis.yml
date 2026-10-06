@@ -38,9 +38,11 @@ description: >-
   technology through brands including Gilbarco, DRB, Driivz, Matco Tools,
   Teletrac Navman, ANGI Energy, and Invenco.
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 common:
+  - url: https://www.vontier.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/vontier-domain-security.yml
   - type: GitHubOrganization
